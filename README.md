@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+> **Happiness comes from acquiring the knowledge and putting it into practice.**
