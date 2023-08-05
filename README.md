@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 [![Rick's github stats](https://github-readme-stats.vercel.app/api?username=ricksu978&theme=dark)](https://github.com/ricksu978/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Binary   21 mins         █████████████▓░░░░░░░░░░░   54.43 %
+C#       17 mins         ███████████▒░░░░░░░░░░░░░   45.57 %
+```
+
 <!--END_SECTION:waka-->
 
 > **Happiness comes from acquiring the knowledge and putting it into practice.**
