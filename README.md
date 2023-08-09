@@ -31,4 +31,5 @@ Other        20 mins         ▒░░░░░░░░░░░░░░░░
 > **Happiness comes from acquiring the knowledge and putting it into practice.**
 
 Cheers
+
 Rick Su
