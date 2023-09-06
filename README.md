@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#         3 hrs 21 mins   ██████████████████████▓░░   90.69 %
-Kotlin     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-GDScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-XML        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+C#         2 hrs 56 mins   ███████████████████████▒░   93.51 %
+GDScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+XML        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
