@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   4 mins          ███████████████░░░░░░░░░░   60.33 %
-C#         2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Kotlin     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+C#       2 mins          ██████████████████░░░░░░░   71.49 %
+Kotlin   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.51 %
 ```
 
 <!--END_SECTION:waka-->
