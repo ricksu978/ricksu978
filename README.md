@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      3 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   42.99 %
-Razor         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-HTML          50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Binary        43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-JSON          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Markdown      2 hrs 21 mins   ████████████▒░░░░░░░░░░░░   49.32 %
+Razor         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Binary        30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Bicep         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+HTML          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
