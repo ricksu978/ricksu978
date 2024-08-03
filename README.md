@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#           8 hrs 15 mins   █████████████░░░░░░░░░░░░   52.04 %
-Bicep        2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+C#           8 hrs 15 mins   █████████████░░░░░░░░░░░░   52.07 %
+Bicep        2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
 YAML         2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
 Binary       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
 PowerShell   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
