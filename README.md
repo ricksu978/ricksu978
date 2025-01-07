@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#            11 hrs 34 mins  █████████░░░░░░░░░░░░░░░░   36.47 %
-Binary        4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Bicep         3 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-TypeScript    3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-JSON          2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+C#            9 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.41 %
+Binary        4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Bicep         3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+TypeScript    3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+YAML          2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
