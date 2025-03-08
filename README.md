@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep          1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.50 %
-C#             1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-Markdown       1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-TypeScript     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-PowerShell     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Bicep        1 hr 45 mins    ██████████▒░░░░░░░░░░░░░░   41.91 %
+Markdown     1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   28.47 %
+TypeScript   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+C#           18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+PowerShell   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 
 <!--END_SECTION:waka-->
