@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#               9 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.61 %
-Docker           4 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Bicep            3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Binary           3 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Bash             2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+C#               4 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+Docker           4 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Bicep            3 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Binary           2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Bash             2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
 ```
 
 <!--END_SECTION:waka-->
