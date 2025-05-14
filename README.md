@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep            6 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-YAML             5 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Docker           5 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Bash             3 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-PHP              2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Bicep            8 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+YAML             8 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+Docker           5 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Bash             3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+PowerShell       2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
 ```
 
 <!--END_SECTION:waka-->
