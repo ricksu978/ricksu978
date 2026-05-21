@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep        4 hrs 56 mins         █████████████████████░░░░   84.64 %
-YAML         35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-PowerShell   18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Bicep        6 hrs 21 mins         ████████████████████▓░░░░   82.72 %
+YAML         53 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+PowerShell   25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
