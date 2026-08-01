@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     17 hrs 18 mins        ██████████░░░░░░░░░░░░░░░   39.76 %
-Other        5 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-HTML         3 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-PowerShell   3 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-C#           2 hrs 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Markdown     15 hrs 59 mins        ████████▒░░░░░░░░░░░░░░░░   33.96 %
+Bicep        10 hrs 15 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Other        7 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+YAML         6 hrs                 ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+HTML         2 hrs 44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
