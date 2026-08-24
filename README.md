@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 59 mins         █████████▓░░░░░░░░░░░░░░░   38.99 %
-Other        2 hrs 25 mins         ████████░░░░░░░░░░░░░░░░░   31.71 %
-C#           51 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Bash         33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Markdown     31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Other      41 mins               █████████████████████▓░░░   86.16 %
+Markdown   4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Python     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
