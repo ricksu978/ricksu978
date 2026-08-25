@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      41 mins               █████████████████████▓░░░   86.16 %
-Markdown   4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Python     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
