@@ -12,4 +12,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # WakaTime requires an OAuth token; WAKATIME_API_KEY remains as a legacy secret name.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN || secrets.WAKATIME_API_KEY }}
